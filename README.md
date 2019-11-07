@@ -36,6 +36,8 @@
 
 [Atomineer Pro Documentation](https://www.atomineerutils.com/ "Atomineer Pro Documentation")
 
+[Code alignment](https://marketplace.visualstudio.com/items?itemName=cpmcgrath.Codealignment "Code alignment")
+
 ##### Memory Leaks
 
 [Intel® Inspector](https://software.intel.com/en-us/inspector "Intel® Inspector")
