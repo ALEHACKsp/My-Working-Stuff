@@ -46,6 +46,9 @@
 
 [Deleaker](https://www.deleaker.com/ "Deleaker")
 
+[Insure++](https://www.parasoft.com/products/insure "Insure++")
+
+
 ##### Qt
 
 [Qt Visual Studio Tools](https://marketplace.visualstudio.com/items?itemName=TheQtCompany.QtVisualStudioTools2019 "Qt Visual Studio Tools")
